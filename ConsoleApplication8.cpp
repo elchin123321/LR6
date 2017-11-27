@@ -12,7 +12,7 @@ int main()
 	int C[N];
 	mass_i(A);
 	reverse(A,C);
-	cout << "Mass 2" << endl;
+	cout << "Mass 4" << endl;
 	mass_cout(C);
 	system("pause");
 	return 0;
